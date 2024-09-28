@@ -2,8 +2,10 @@
 
 ## [Project 1: Customer Segmentation Analysis (RFM)](https://github.com/slxkv/Customer-Segmentation-Analysis)
 
+<p align="center">
+    <img src="Images/tableau1.png" width="500" height="500">
+</p>
 
-<img src="Images/tableau1.png" width="500" height="500">
 
 - This project focus on customer base by segmenting them according to their purchasing behavior, tailoring them to company's marketing strategies, improve customer retention, and increase sales by focusing on high-value customers and re-engaging less active ones.
 - RFM analysis aproach to adress key pain-points was conducted.
