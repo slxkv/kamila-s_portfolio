@@ -9,7 +9,7 @@
 - RFM analysis aproach to adress key pain-points was conducted.
 - Ultimately, the RFM segmentation enabled the company to make data-driven decisions, leading to improved customer relationships and a measurable impact on sales performance.
 
-## [Project 2: Coffee Shop Sales Analysis]([https://github.com/slxkv/Customer-Segmentation-Analysis](https://kamilarashid.wordpress.com/portfolio/projects/))
+## [Project 2: Coffee Shop Sales Analysis](https://kamilarashid.wordpress.com/portfolio/projects/))
 
 <p align="center">
     <img src="Images/coffeeshopA (1).png" width="800" height="500">
