@@ -20,4 +20,4 @@
     <img src="Images/coffeeshopA (1).png" width="800" height="500">
 </p>
 
-### [Other Portfolio Projects](https://kamilarashid.wordpress.com/portfolio/projects/)
+Link to other Portfolio Projects: [Portfolio Projects](https://kamilarashid.wordpress.com/portfolio/projects/)
