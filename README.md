@@ -10,7 +10,7 @@
 </p>
 
 
-## [Project 2: Coffee Shop Sales Analysis](https://github.com/slxkv/Coffee_Shop_Overview))
+## [Project 2: Coffee Shop Sales Analysis](https://github.com/slxkv/Coffee_Shop_Overview)
 
 - This project focus on challange that faced by The Sales & Marketing Department in optimizing sales and marketing efforts due to a lack of visibility into the performance of product categories across two stores.
 - Using comprehensive sales data, detailed analysis was conducted to pinpoint key trends, revealing which items resonate most with customers and at what times shops experience the highest foot traffic.
